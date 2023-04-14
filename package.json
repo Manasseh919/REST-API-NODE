@@ -1,0 +1,19 @@
+{
+  "name": "rest-shop",
+  "version": "1.0.0",
+  "description": "This is a shop to help me with understanding restful api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Manasseh Ameyow",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
